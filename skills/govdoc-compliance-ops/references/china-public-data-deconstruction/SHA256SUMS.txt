@@ -1,0 +1,5 @@
+4874cdbe060881d501a546ed0985a8b5b0075711594cf06fe0c18b6f25b16378  ./README.md
+c0108c59259f20db46dd69f316e7e421dd790e6eeeb2b5ddf14aca367a7d8d16  ./bundle.zip
+3178d819900fc0e69f133d47e32699b87cd6dbe85369b6cde37e17be6cf33e5a  ./kimi.plugin.json
+a31651dc45fbd1b4c1a3d0bf4a15025d198a1a497a49abc6a6a7542ee1dc4934  ./scripts/china_public_data_tool.py
+81f78c7cbb48626e45c60a350ecd7190d29213df0e04291fe460375e8e063870  ./skills/china_public_data/SKILL.md
